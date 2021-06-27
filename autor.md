@@ -2,9 +2,9 @@
 
 Preencha os dados abaixo para identificar a autoria do trabalho.
 
-- Nome: *\<insira seu nome aqui>*
-- Email: *\<insira seu email aqui>*
-- Turma: *\<insira sua turma aqui>*
+- Nome: *Luis Manuel Esteves R Vieira*
+- Email: *luis.esteves@ufrn.br*
+- Turma: *LP I T01*
 
 # Questões Finalizadas
 
